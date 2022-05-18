@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 15,
+      "title": "fdgsfdgsgffdtgeft",
+      "author": "fgdgsdfgdfggdfgdfg",
+      "isbn": "78578577547865"
+    },
+    {
+      "id": 16,
+      "title": "gtfdghfd",
+      "author": "fdgdfgdf",
+      "isbn": "ghfdgfd"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
